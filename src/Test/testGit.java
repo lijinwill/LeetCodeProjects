@@ -12,5 +12,6 @@ public class testGit {
         System.out.println("Git test again!!!");
         System.out.println("Git test3!!!");
         System.out.println("Git test4");
+        System.out.println("git test branch");
     }
 }
